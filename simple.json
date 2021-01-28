@@ -1,11 +1,11 @@
 {
-id: 12,
-user: {
-name: "Sam",
-address: {
-country: "USA",
-zip: "12345",
-city: "New York"
+"id": 12,
+"user": {
+"name": "Sam",
+"address": {
+"country": "USA",
+"zip": "12345",
+"city": "New York"
 }
 }
 }
