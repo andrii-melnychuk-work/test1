@@ -1,0 +1,11 @@
+{
+  "id": "12",
+  "user": {
+    "name": "Sam",
+    "address": {
+      "country": "USA",
+      "zip": "12345111",
+      "city": "New York"
+    }
+  }
+}
