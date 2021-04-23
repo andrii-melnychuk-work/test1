@@ -1,0 +1,26 @@
+{
+    "ner_training": [
+      {
+        "entity_name": "assignment_group",
+        "entity_values": [
+            {
+                "value": "data center",
+                "synonyms": ["dc", "data ctr","DC"]
+            },
+            {
+                "value": "security",
+                "synonyms": ["sec", "sec ops","security ops","secrity","SeC","s ops","ops security","ops sec"]
+            },
+            {
+                "value": "human resources",
+                "synonyms": ["hr", "hrms","hcm"]
+            },
+            {
+                "value": "finance",
+                "synonyms": ["fin", "financial office","finance dept"]
+            }
+        ],
+        "language": "en"
+      }
+    ]
+}
