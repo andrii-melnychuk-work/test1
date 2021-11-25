@@ -1,9 +1,9 @@
 {
-	"start_event":"TZID=America/New_York:20130802T103400",
-	"end_event":"TZID=America/New_York:20130802T103400",
-	"summary":"my_meeting",
-	"location":"Ukraine",
-	"description":"test",
-	"organizer":"andrii.melnychuk@skael.com",
-	"attendee":"andrii.melnychuk.work@gmail.com"
+   "start_event":"TZID=America/New_York:20130802T103400",
+   "end_event":"TZID=America/New_York:20130802T103400",
+   "summary":"my_meeting",
+   "location":"Ukraine",
+   "description":"test",
+   "organizer":"andrii.melnychuk@skael.com",
+   "attendee":"andrii.melnychuk.work@gmail.com"
 }
