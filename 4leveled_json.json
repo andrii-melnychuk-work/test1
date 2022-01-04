@@ -1,6 +1,5 @@
 {
-   "user":"Andrew",
-   "occupation":"QA",
+   
    "tasks":{
       "app":{
          "task1":"regression",
