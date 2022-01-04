@@ -1,0 +1,21 @@
+{
+   "user":"Andrew",
+   "occupation":"QA",
+   "tasks":{
+      "app":{
+         "task1":"regression",
+         "task2":{
+            "smoketesting1":"test_suite",
+            "smoketesting2":"fixed_bugs"
+         },
+         "stage":{
+            "task1":"supreq",
+            "task2":"testing"
+         },
+         "dev":{
+            "task1":"regression",
+            "task2":"bug_verification"
+         }
+      }
+   }
+}
